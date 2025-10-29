@@ -1,4 +1,4 @@
-# Lab 05
+# Lab 05 - Soluzione
 
 #### Argomenti
 
@@ -83,5 +83,6 @@ In tale file è necessario implementare il seguente layout:
 
 Completare l’applicazione aggiungendo, oltre a quelle già presenti nel file `main.py`, tutte le funzioni di tipo 
 **event handler** mancanti necessarie a collegare i componenti grafici dell’interfaccia con la logica dell’applicazione. 
+
 
 
